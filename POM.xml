@@ -1,5 +1,7 @@
 <project>
-  <modelVersion>4.0.0</modelVersion>
+<groupId>Home</groupId>
+<artifactId>app</artifactId>
+<modelVersion>4.0.0</modelVersion>
  
   <build>
         <plugins>
